@@ -1,7 +1,7 @@
 var bullet,wall;
 var speed,weight,thickness;
 var deformation;
-
+//project 21
 function setup() {
 createCanvas(800,400);
 speed =Math.round(random(30,52));
